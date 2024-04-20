@@ -1,6 +1,6 @@
 # Disaster Preparedness and Response System
 
-![System Overview](after_login.png)
+![System Overview](first_scene.png)
 
 ## Overview
 Website Link: http://disasterprepared.byethost11.com <br>
